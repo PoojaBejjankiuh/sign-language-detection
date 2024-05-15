@@ -1,4 +1,4 @@
-1. mp_data folder containing data set.
+1. MP_data folder containing data set.
 2. Final_Dip.ipynb is the project file
 3. download entire folder and extract all the file
 4. if you want create your own signs you can execute train data file. or else you can start executing the Final_dip file.
